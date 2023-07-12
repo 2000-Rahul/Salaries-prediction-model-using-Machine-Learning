@@ -1,4 +1,7 @@
 ## Salaries prediction model using linear regression
+- In this project we solve the task of salary prediction  of Employees with Machine Learning using Python.
+- Generally we know salary is determined by the working experiance of a employee.
+- we use Linear Regression to build a model  which is a supervised machine learning algorithm in machine learing.
 ## Model building steps <br>
 1. Import necessary libraries - numpy, pandas, matplotlib,seaborn.
 2. Load dataset inside jupyter notebook.
@@ -8,10 +11,10 @@
 6. Plot the outputs using matplotlib library.
 7. calculate accuracy of model using r2_score library and calculate mean squared error.
 8. finally find intercept and coefficent of linear regression line.
+9. Salary prediction
 
-## Plotting actual and predicted values
-- red line represent predicted value by model
-- blue line represent actual values
+![image](https://github.com/2000-Rahul/Salaries-prediction-model-using-linear-regression/assets/136818857/052168a7-445c-42be-9d1b-6e8621be3dce)
 
-  ![image](https://github.com/2000-Rahul/Salaries-prediction-model-using-linear-regression/assets/136818857/5a205a26-28ba-4d23-8833-3dcb58da2b61)
 
+### End notes
+- To get information about linear regression you can read linear regression txt file from repository
