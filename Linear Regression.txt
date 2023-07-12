@@ -1,0 +1,3 @@
+Q1. What is the function of linear regression?
+
+A. The function of linear regression is to model and analyze the relationship between a dependent variable (target) and one or more independent variables (features). It helps us understand how the independent variables influence the dependent variable and allows us to make predictions based on the learned relationship.
