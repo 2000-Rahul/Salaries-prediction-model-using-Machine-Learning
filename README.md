@@ -1,0 +1,1 @@
+# Salaries-prediction-model-using-linear-regression
