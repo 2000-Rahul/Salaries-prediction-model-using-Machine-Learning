@@ -1,7 +1,14 @@
-## Salaries prediction model using linear regression
+## Salaries prediction model using Machine Learning
 - In this project we solve the task of salary prediction  of Employees with Machine Learning using Python.
 - Generally we know salary is determined by the working experiance of a employee.
 - we use Linear Regression to build a model  which is a supervised machine learning algorithm in machine learing.
+
+## Overview of model
+- For salary prediction, we need to find relationships in the data on how the salary is determined. For this task, we need to have a dataset based on salaries. I found a dataset that contains data about how job experience affects salary.<br>
+- The dataset contains two columns only: <br>
+ job experience <br>
+  salary
+
 ## Model building steps <br>
 1. Import necessary libraries - numpy, pandas, matplotlib,seaborn.
 2. Load dataset inside jupyter notebook.
